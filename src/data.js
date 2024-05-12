@@ -3,7 +3,7 @@ const reviews = [
         id: 1,
         name: "Rahul Kumar Mandal",
         job: "Software Engineer",
-        image: "src/assets/rahul.jpg",
+        image: "D:\testimonial-slider\src\assets\rahul.jpg",
         text: "Throughout our collaboration, I've witnessed this team's remarkable technical prowess and unwavering commitment to excellence. Their ability to consistently deliver high-quality solutions, on schedule and within budget, is truly commendable. They've proven themselves to be indispensable partners, elevating every project they undertake.",
     },
 
